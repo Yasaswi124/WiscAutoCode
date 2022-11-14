@@ -10,9 +10,9 @@ This is my solution to the Wisconsin Autonomous Perception Coding Challenge. I u
 
 
 
-Original Image            |   answer.png produced
-:-------------------------:|:-------------------------:
-<img src = "https://github.com/WisconsinAutonomous/CodingChallenges/blob/master/perception/red.png" width = "460" height = "560">   |  <img src = "https://github.com/Yasaswi124/WiscAutoCode/blob/main/images/answer.png" width = "460" height = "560"> 
+Original Image            |  example answer | answer produced
+:-------------------------:| :-------------------------: | :-------------------------:
+<img src = "https://github.com/WisconsinAutonomous/CodingChallenges/blob/master/perception/red.png" width = "460" height = "460">   | <img src = "https://github.com/WisconsinAutonomous/CodingChallenges/raw/master/perception/answer.png" width = "460" height = "460"> |  <img src = "https://github.com/Yasaswi124/WiscAutoCode/blob/main/images/answer.png" width = "460" height = "460"> 
 
 
 ## Methodolgy
